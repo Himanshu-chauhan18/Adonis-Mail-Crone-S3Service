@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Dell\\Desktop\\AdonisJs\\hello-world\\log\\.79cbc0f8975f967ee783c2db628d612f244ea05e-audit.json",
+    "files": [
+        {
+            "date": 1698558405725,
+            "name": "C:\\Users\\Dell\\Desktop\\AdonisJs\\hello-world\\log\\29-10-2023.log",
+            "hash": "9ad8bc507e9b3f58642869cd629f879454a3d078fa98b09331a2bcacc9ae2c08"
+        }
+    ],
+    "hashType": "sha256"
+}
