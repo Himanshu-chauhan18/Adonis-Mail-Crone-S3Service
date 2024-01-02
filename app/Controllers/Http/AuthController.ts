@@ -1,10 +1,10 @@
 // import type { HttpContextContract } from '@ioc:Adonis/Core/HttpContext'
-import CronService from "App/Services/CronService";
-import {Utils,Message} from "Config/config";
+// import CronService from "App/Services/CronService";
+// import {Utils,Message} from "Config/config";
 import Database from '@ioc:Adonis/Lucid/Database';
 import MailService from 'App/Services/MailService';
 import randomstring from 'randomstring';
-import userLogin from 'Validator'
+// import userLogin from 'Validator'
 export default class AuthController {
     constructor(){
         
